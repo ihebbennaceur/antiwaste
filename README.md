@@ -32,19 +32,6 @@ Pour obtenir de l'aide sur l'utilisation de l'application AntiWaste, consultez n
 ### 6. Contribution
 Nous encourageons les contributions à notre projet. Si vous souhaitez contribuer à l'amélioration d'AntiWaste, veuillez suivre les instructions du fichier CONTRIBUTING.md.
 
-### 7. Resources : Dataset image : 
 
-fruits : https://www.kaggle.com/datasets/moltean/fruits
-fruits abimés : https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
-supplément légumes : https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
-légumes ? : 
-https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification/code
-
-
-Dataset Base de donnée info : 
-API recette : https://geekflare.com/fr/food-api-solutions/
-impact carbone : 
-fruits et légumes SAISON : https://www.greenpeace.fr/guetteur/calendrier/
-code-barres : https://stacklima.com/comment-creer-un-lecteur-de-code-barres-en-python/
 
 
