@@ -32,6 +32,7 @@ Pour obtenir de l'aide sur l'utilisation de l'application AntiWaste, consultez n
 ### 6. Contribution
 Nous encourageons les contributions à notre projet. Si vous souhaitez contribuer à l'amélioration d'AntiWaste, veuillez suivre les instructions du fichier CONTRIBUTING.md.
 
+video : https://share.vidyard.com/watch/R5hSUKP8k867cfiTdHBsyh?
 
 
 
